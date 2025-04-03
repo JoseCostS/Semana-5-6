@@ -60,4 +60,4 @@ function QtdeCliques({qtdeCliques, titleCliques}) {
   )
  }
 
- export default App
+ export default App;
